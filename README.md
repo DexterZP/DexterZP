@@ -6,7 +6,11 @@
 ![Badge](https://img.shields.io/badge/NodeJS-Desenvolvimento[APIREST]-339933?style=for-the-badge&logo=node.js)
 ![Badge](https://img.shields.io/badge/MYSql-Desenvolvimento[Database]-4479A1?style=for-the-badge&logo=mysql)
 
+![Badge](https://img.shields.io/badge/Firebase-Desenvolvimento-4479A1?style=for-the-badge&logo=firebase)
+
 Meu nome é André Piorsky e atualmente trabalho com desenvolvimentos de aplicativos, tanto eles como Nativo(Java) como Híbridos (Dart).
+
+Integração com Firebase, praticamente, com muitas funcionalidades, Autenticação diversas, Storage, Database e manipulação de diversos recursos.
 
 Também na criação de API REST com NodeJS e criação de banco de dados com MYSQL.
 
